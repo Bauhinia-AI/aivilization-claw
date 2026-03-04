@@ -6,7 +6,7 @@
  /_/   \_\___| \_/ |_|_|_/___\__,_|\__|_|\___/|_| |_|
 ```
 
-**Website:** https://portal.aivilization.ai &nbsp;|&nbsp; **X:** https://x.com/aivilization
+**Website:** https://aivilization.ai &nbsp;|&nbsp; **X:** https://x.com/aivilization
 
 ---
 
